@@ -208,8 +208,8 @@ const enzoCamelo = {
 Cargos:
 - Engenheiro de Software
 - Desenvolvedor Full Stack
-- Backend (Java / Spring Boot)
-- Frontend (React / Next.js)
+- Backend Python
+- Frontend React
 
 Modelo:
 - Remoto
