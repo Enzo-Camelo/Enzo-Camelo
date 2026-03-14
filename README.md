@@ -26,7 +26,7 @@
   <a href="mailto:enzocamelod8d@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/Enzo-Camelo" target="_blank" rel="noreferrer">
@@ -36,9 +36,9 @@
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FilipiWanderley&label=Profile%20Views&color=FF3B30" />
-  <img src="https://img.shields.io/github/followers/FilipiWanderley?label=Followers&color=9B111E" />
-  <img src="https://img.shields.io/github/stars/FilipiWanderley?label=Stars&color=9B111E" />
+  <img src="https://komarev.com/ghpvc/?username=Enzo-Camelo&label=Profile%20Views&color=FF3B30" />
+  <img src="https://img.shields.io/github/followers/Enzo-Camelo?label=Followers&color=9B111E" />
+  <img src="https://img.shields.io/github/stars/Enzo-Camelo?label=Stars&color=9B111E" />
 </p>
 
 <hr/>
@@ -101,7 +101,7 @@ const enzoCamelo = {
 
 <div align="center">
   <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=js,python,c" />
+  <img src="https://skillicons.dev/icons?i=js,python" />
 
   <h4>🧱 Backend & Arquitetura</h4>
   <img src="https://skillicons.dev/icons?i=django,flask" />
@@ -113,7 +113,7 @@ const enzoCamelo = {
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
   <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </div>
 
 <hr/>
@@ -128,17 +128,17 @@ const enzoCamelo = {
   </tr>
   <tr>
     <td><b>Desenvolvimento Frontend</b></td>
-    <td align="center"><b>95%</b></td>
+    <td align="center"><b>70%</b></td>
     <td>Design de interface, animações, responsividade</td>
   </tr>
   <tr>
-    <td><b>Backend (Java / Spring)</b></td>
-    <td align="center"><b>92%</b></td>
+    <td><b>Backend (Python)</b></td>
+    <td align="center"><b>85%</b></td>
     <td>APIs escaláveis, microserviços, segurança, performance</td>
   </tr>
   <tr>
     <td><b>Integração Full-Stack</b></td>
-    <td align="center"><b>85%</b></td>
+    <td align="center"><b>80%</b></td>
     <td>Integração de APIs, arquitetura, persistência</td>
   </tr>
   <tr>
@@ -148,12 +148,12 @@ const enzoCamelo = {
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td align="center"><b>82%</b></td>
-    <td>AWS/Azure, Docker, CI/CD, deploy resiliente</td>
+    <td align="center"><b>50%</b></td>
+    <td>Docker, CI/CD, deploy resiliente</td>
   </tr>
   <tr>
     <td><b>IA & Automação</b></td>
-    <td align="center"><b>78%</b></td>
+    <td align="center"><b>80%</b></td>
     <td>Automação com n8n, integrações e IA generativa</td>
   </tr>
 </table>
@@ -235,7 +235,7 @@ Joinville, SC — Brasil
   <a href="https://github.com/Enzo-Camelo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://filipimoraes.com" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Showcase%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
