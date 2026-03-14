@@ -1,12 +1,12 @@
 <!-- =========================================================
      ENZO CAMELO • GITHUB PROFILE README
-     Red Gradient Theme • HTML Safe Version (PT-BR)
+     Dark Purple Gradient Theme • HTML Safe Version (PT-BR)
 ========================================================= -->
 
-<!-- BANNER TOPO (VERMELHO DEGRADÊ) -->
+<!-- BANNER TOPO (ROXO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Enzo%20Camelo&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Enzo%20Camelo&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:10002B,50:5A189A,100:9D4EDD"
   />
 </p>
 
@@ -21,24 +21,24 @@
 <!-- BOTÕES TOPO -->
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-camelo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:enzocamelod8d@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/Enzo-Camelo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-10002B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <!-- CONTADORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Enzo-Camelo&label=Profile%20Views&color=FF3B30" />
-  <img src="https://img.shields.io/github/followers/Enzo-Camelo?label=Followers&color=9B111E" />
-  <img src="https://img.shields.io/github/stars/Enzo-Camelo?label=Stars&color=9B111E" />
+  <img src="https://komarev.com/ghpvc/?username=Enzo-Camelo&label=Profile%20Views&color=9D4EDD" />
+  <img src="https://img.shields.io/github/followers/Enzo-Camelo?label=Followers&color=5A189A" />
+  <img src="https://img.shields.io/github/stars/Enzo-Camelo?label=Stars&color=5A189A" />
 </p>
 
 <hr/>
@@ -77,7 +77,7 @@ const enzoCamelo = {
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Enzo-Camelo&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    src="https://github-readme-stats.vercel.app/api?username=Enzo-Camelo&show_icons=true&hide_border=true&theme=github_dark&icon_color=9D4EDD"
     alt="GitHub Stats"
   />
   <img
@@ -195,7 +195,7 @@ const enzoCamelo = {
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Camelo&bg_color=0B1220&color=C9D1D9&line=FF3B30&point=FF3B30&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Camelo&bg_color=0D1117&color=C9D1D9&line=9D4EDD&point=9D4EDD&area=true&hide_border=true"
     alt="Gráfico de atividade"
   />
 </p>
@@ -230,13 +230,13 @@ Joinville, SC — Brasil
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-camelo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jornada%20Profissional-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Enzo-Camelo" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfólio%20de%20Código-10002B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Showcase%20Interativo-FF3B30?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Showcase%20Interativo-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -245,9 +245,9 @@ Joinville, SC — Brasil
   🌍 <b>Disponível para trabalho remoto global</b>
 </p>
 
-<!-- BANNER RODAPÉ (VERMELHO DEGRADÊ) -->
+<!-- BANNER RODAPÉ (ROXO DEGRADÊ) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:10002B,50:5A189A,100:9D4EDD"
   />
 </p>
