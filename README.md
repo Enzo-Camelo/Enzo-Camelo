@@ -20,7 +20,7 @@
 
 <!-- BOTÕES TOPO -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipimoraes" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/enzo-camelo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:enzocamelod8d@gmail.com" target="_blank" rel="noreferrer">
@@ -229,7 +229,7 @@ Joinville, SC — Brasil
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enzocamelo" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/enzo-camelo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Jornada%20Profissional-9B111E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Enzo-Camelo" target="_blank" rel="noreferrer">
