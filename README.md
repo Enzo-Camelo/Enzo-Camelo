@@ -49,8 +49,8 @@
   <li><b>Atuação:</b> Estagiário em Desenvolvimento de Software.</li>
   <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
   <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
-  <li><b>Frontend:</b> Experiência PIXEL-perfect, acessibilidade (WCAG) e componentes reutilizáveis.</li>
-  <li><b>Cloud & DevOps:</b> AWS/Azure, Docker e CI/CD para deploy previsível e resiliente.</li>
+  <li><b>Frontend:</b> Acessibilidade (WCAG) e componentes reutilizáveis.</li>
+  <li><b>Cloud & DevOps:</b> Docker e CI/CD para deploy previsível e resiliente.</li>
   <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
   <li><b>Local:</b> Joinville, Santa Catarina — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
 </ul>
@@ -104,13 +104,13 @@ const enzoCamelo = {
   <img src="https://skillicons.dev/icons?i=js,python" />
 
   <h4>🧱 Backend & Arquitetura</h4>
-  <img src="https://skillicons.dev/icons?i=django,flask" />
+  <img src="https://skillicons.dev/icons?i=django,flask,nextjs" />
 
   <h4>🎨 Frontend & Design</h4>
   <img src="https://skillicons.dev/icons?i=react,figma" />
 
   <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 
   <h4>☁️ Cloud, DevOps & Ferramentas</h4>
   <img src="https://skillicons.dev/icons?i=docker,git,github" />
