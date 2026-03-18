@@ -62,7 +62,7 @@ const enzoCamelo = {
   foco: [
     "Python (APIs, microserviços, performance)",
     "React (Design Systems, UX, acessibilidade)",
-    "Cloud (AWS/Azure), Docker e CI/CD",
+    "Docker e CI/CD",
     "Automação com n8n e integrações via APIs"
   ],
   objetivo:
@@ -101,19 +101,19 @@ const enzoCamelo = {
 
 <div align="center">
   <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=js,python" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 
   <h4>🧱 Backend & Arquitetura</h4>
-  <img src="https://skillicons.dev/icons?i=django,flask,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,django,flask" />
 
   <h4>🎨 Frontend & Design</h4>
   <img src="https://skillicons.dev/icons?i=react,figma" />
 
   <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
 
   <h4>☁️ Cloud, DevOps & Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </div>
 
 <hr/>
