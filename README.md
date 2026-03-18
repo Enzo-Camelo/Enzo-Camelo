@@ -104,10 +104,10 @@ const enzoCamelo = {
   <img src="https://skillicons.dev/icons?i=python,js" />
 
   <h4>🧱 Backend & Arquitetura</h4>
-  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,django,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
 
   <h4>🎨 Frontend & Design</h4>
-  <img src="https://skillicons.dev/icons?i=react,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,vite,figma" />
 
   <h4>🗄️ Banco de dados</h4>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
