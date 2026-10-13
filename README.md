@@ -54,5 +54,17 @@ Sistema de **transcrição e tradução de áudio em tempo real** para conferên
 
 <br/>
 
+## 💻 Atividades
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake.svg" />
+    <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
 📫 Contato
 E-mail: enzocamelo8d@gmail.com · LinkedIn: [enzo-camelo](https://www.linkedin.com/in/enzo-camelo)
