@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Enzo Camelo — Desenvolvedor Full Stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10002B"/>
+      <stop offset="50%" stop-color="#5A189A"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E0AAFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#E0AAFF"/>
+      <stop offset="100%" stop-color="#E0AAFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <circle cx="1060" cy="40" r="150" fill="#E0AAFF" opacity="0.07"/>
+  <circle cx="140" cy="250" r="120" fill="#E0AAFF" opacity="0.06"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF">Enzo Camelo</text>
+  <rect x="350" y="138" width="500" height="2" fill="url(#line)"/>
+  <text x="600" y="185" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#F3E8FF">Desenvolvedor Full Stack  •  Python + React</text>
+</svg>
