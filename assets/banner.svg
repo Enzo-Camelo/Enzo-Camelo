@@ -16,6 +16,14 @@
   <circle cx="140" cy="250" r="120" fill="#E0AAFF" opacity="0.06"/>
   <text x="600" y="115" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF">Enzo Camelo</text>
   <rect x="350" y="138" width="500" height="2" fill="url(#line)"/>
-  <text x="600" y="185" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#F3E8FF">Desenvolvedor Full Stack</text>
-  <text x="600" y="185" text-anchor="middle" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#F3E8FF">Python & React</text>
+  <text x="600" y="180" text-anchor="middle"
+        font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="26" font-weight="500" fill="#F3E8FF">
+    Desenvolvedor Full Stack
+  </text>
+  <text x="600" y="220" text-anchor="middle"
+        font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="400" fill="#E0AAFF">
+    Python &amp; React
+  </text>
 </svg>
