@@ -45,7 +45,7 @@ Sistema de **transcrição e tradução de áudio em tempo real** para conferên
 
 ---
 
-### <img src="assets/docboard.svg" width="24" height="24" alt="DocBoard" valign="middle"> DocBoard
+### <img src="assets/docboard.png" width="28" height="28" alt="DocBoard" valign="middle"> DocBoard
 **Dashboard de monitoramento clínico-financeiro** para Hemodinâmica. Reúne gestão de metas, produtividade médica e indicadores de segurança do paciente em um só painel.
 
 **Stack:** `[Python]` · `[React]` · `[Supabase]` · `[FastAPI]` · `[Vite]`
