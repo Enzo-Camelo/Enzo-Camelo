@@ -23,20 +23,20 @@
 
 ---
 
-## 🚀 O que eu faço
+## 🧑‍💻 O que eu faço
 <b>Backend:</b> APIs REST com Python (FastAPI, Django, Flask), integrações e persistência em PostgreSQL.<br/>
 <b>Frontend:</b> React / Next.js com Tailwind, componentes reutilizáveis e acessibilidade (WCAG).<br/>
 <b>Automação & IA:</b> fluxos com n8n, integrações via API e IA generativa no dia a dia.<br/>
 <b>Entrega:</b> Docker e CI/CD para deploy previsível.<br/>
 
-## 🧰 Stack
+## ⚙️ Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,react,tailwindcss,vite,postgres,mysql,supabase,docker,git,github,figma" alt="Tecnologias" />
 </p>
 
 ## ⭐ Projetos em destaque
 
-### 🎙️ TransLive
+### <img src="assets/translive.svg" width="24" height="24" alt="TransLive" valign="middle"> TransLive
 Sistema de **transcrição e tradução de áudio em tempo real** para conferências, palestras e apresentações internacionais. Converte a fala em texto, traduz para o idioma de destino e exibe **legendas ao vivo** em tela, ajudando o público a acompanhar palestrantes de outros idiomas.
 
 **Stack:** `[Python]` · `[Flask]`
@@ -45,7 +45,7 @@ Sistema de **transcrição e tradução de áudio em tempo real** para conferên
 
 ---
 
-### 🩺 DocBoard
+### <img src="assets/docboard.svg" width="24" height="24" alt="DocBoard" valign="middle"> DocBoard
 **Dashboard de monitoramento clínico-financeiro** para Hemodinâmica. Reúne gestão de metas, produtividade médica e indicadores de segurança do paciente em um só painel.
 
 **Stack:** `[Python]` · `[React]` · `[Supabase]` · `[FastAPI]` · `[Vite]`
@@ -53,6 +53,21 @@ Sistema de **transcrição e tradução de áudio em tempo real** para conferên
 **Links:** [Código](https://github.com/Enzo-Camelo/DocBoard)
 
 <br/>
+
+## <img src="assets/github-white.svg" width="24" height="24" alt="GitHub" valign="middle"> Visão geral do GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Camelo&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Enzo-Camelo&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## 💻 Atividades
 
