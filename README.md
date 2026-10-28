@@ -1,66 +1,66 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Enzo Camelo - Desenvolvedor Full Stack" width="100%" />
+  <img src="assets/banner.svg" alt="Enzo Camelo - Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
-  <b>Estagiário em Desenvolvimento de Software</b> · Joinville, SC, Brasil<br/>
-  Construo APIs em <b>Python</b> e interfaces em <b>React</b>.
+  <b>Software Development Intern</b> · Joinville, SC, Brazil<br/>
+  I build APIs in <b>Python</b> and interfaces in <b>React</b>.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-camelo"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:enzocamelo8d@gmail.com"><img src="https://img.shields.io/badge/E--mail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <!-- Quando tiver portfólio, descomente e troque a URL:
-  <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="mailto:enzocamelo8d@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- When you have a portfolio, uncomment this and replace the URL:
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   -->
 </p>
 
 <p align="center">
-  <b>Aberto a oportunidades</b><br/>
-     Dev Backend Python · Full Stack · Frontend React<br/>
-     Remoto · Híbrido · Presencial
+  <b>Open to opportunities</b><br/>
+     Python Backend Dev · Full Stack · React Frontend<br/>
+     Remote · Hybrid · On-site
 </p>
 
 ---
 
-## 🧑‍💻 O que eu faço
-<b>Backend:</b> APIs REST com Python (FastAPI, Django, Flask), integrações e persistência em PostgreSQL.<br/>
-<b>Frontend:</b> React / Next.js com Tailwind, componentes reutilizáveis e acessibilidade (WCAG).<br/>
-<b>Automação & IA:</b> fluxos com n8n, integrações via API e IA generativa no dia a dia.<br/>
-<b>Entrega:</b> Docker e CI/CD para deploy previsível.<br/>
+## 🧑‍💻 What I do
+<b>Backend:</b> REST APIs with Python (FastAPI, Django, Flask), integrations and persistence with PostgreSQL.<br/>
+<b>Frontend:</b> React / Next.js with Tailwind, reusable components and accessibility (WCAG).<br/>
+<b>Automation & AI:</b> workflows with n8n, API integrations and generative AI in day-to-day work.<br/>
+<b>Delivery:</b> Docker and CI/CD for predictable deployments.<br/>
 
-## ⚙️ Stacks
+## ⚙️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,tailwindcss,vite,postgres,mysql,supabase,docker,git,github,figma" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,tailwindcss,vite,postgres,mysql,supabase,docker,git,github,figma" alt="Technologies" />
 </p>
 
-## ⭐ Projetos em destaque
+## ⭐ Featured Projects
 
 ### <img src="assets/translive.svg" width="24" height="24" alt="TransLive" valign="middle"> TransLive
-Sistema de **transcrição e tradução de áudio em tempo real** para conferências, palestras e apresentações internacionais. Converte a fala em texto, traduz para o idioma de destino e exibe **legendas ao vivo** em tela, ajudando o público a acompanhar palestrantes de outros idiomas.
+A **real-time audio transcription and translation** system for conferences, talks and international presentations. It converts speech to text, translates it into the target language and displays **live captions** on screen, helping the audience follow speakers of other languages.
 
 **Stack:** `[Python]` · `[Flask]`
 
-**Links:** [Código](https://github.com/Enzo-Camelo/TransLive)
+**Links:** Private
 
 ---
 
 ### <img src="assets/docboard.png" width="28" height="28" alt="DocBoard" valign="middle"> DocBoard
-**Dashboard de monitoramento clínico-financeiro** para Hemodinâmica. Reúne gestão de metas, produtividade médica e indicadores de segurança do paciente em um só painel.
+A **clinical and financial monitoring dashboard** for Hemodynamics. It brings together goal management, physician productivity and patient safety indicators in a single panel.
 
 **Stack:** `[Python]` · `[React]` · `[Supabase]` · `[FastAPI]` · `[Vite]`
 
-**Links:** [Código](https://github.com/Enzo-Camelo/DocBoard)
+**Links:** [Code](https://github.com/Enzo-Camelo/DocBoard)
 
 <br/>
 
-## <img src="assets/github-white.svg" width="24" height="24" alt="GitHub" valign="middle"> Visão geral do GitHub
+## <img src="assets/github-white.svg" width="24" height="24" alt="GitHub" valign="middle"> GitHub Overview
 
 <p align="center">
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Camelo&layout=compact&hide_border=true&theme=github_dark"
-    alt="Linguagens mais usadas"
+    alt="Most used languages"
   />
   <img
     height="170"
@@ -69,17 +69,17 @@ Sistema de **transcrição e tradução de áudio em tempo real** para conferên
   />
 </p>
 
-## 💻 Atividades
+## 💻 Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake.svg" />
-    <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake.svg" />
+    <img alt="Snake moving across the contribution graph" src="https://raw.githubusercontent.com/Enzo-Camelo/Enzo-Camelo/output/github-snake.svg" />
   </picture>
 </p>
 
 <br/>
 
-📫 Contato
-E-mail: enzocamelo8d@gmail.com · LinkedIn: [enzo-camelo](https://www.linkedin.com/in/enzo-camelo)
+📫 Contact
+Email: enzocamelo8d@gmail.com · LinkedIn: [enzo-camelo](https://www.linkedin.com/in/enzo-camelo)
