@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Enzo Camelo - Desenvolvedor Full Stack">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Enzo Camelo - Full Stack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#10002B"/>
@@ -19,7 +19,7 @@
   <text x="600" y="180" text-anchor="middle"
         font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"
         font-size="26" font-weight="500" fill="#F3E8FF">
-    Desenvolvedor Full Stack
+    Full Stack Developer
   </text>
   <text x="600" y="220" text-anchor="middle"
         font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif"
