@@ -1,0 +1,3 @@
+# local-only source files (fonts, original images) — not published
+_local/
+__pycache__/
