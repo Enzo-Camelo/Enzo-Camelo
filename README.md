@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://enzocamelo.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/badge-portfolio.svg"/><img src="assets/light/badge-portfolio.svg" alt="Portfolio: enzocamelo.vercel.app"/></picture></a>
+<a href="https://enzocamelo.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/badge-portfolio.svg"/><img src="assets/light/badge-portfolio.svg" alt="Portfolio: enzocamelo.dev"/></picture></a>
 <a href="assets/cv/enzo-camelo-cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/badge-cv.svg"/><img src="assets/light/badge-cv.svg" alt="CV (PDF) of Enzo Camelo"/></picture></a>
 <a href="https://www.linkedin.com/in/enzo-camelo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/badge-linkedin.svg"/><img src="assets/light/badge-linkedin.svg" alt="LinkedIn: linkedin.com/in/enzo-camelo"/></picture></a>
 <a href="http://instagram.com/camelo_enzo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/badge-instagram.svg"/><img src="assets/light/badge-instagram.svg" alt="Instagram: @camelo_enzo"/></picture></a>
@@ -19,7 +19,7 @@ Status: open to opportunities (remote, hybrid or on-site)
 Focus: AI-integrated systems, Python backend, React frontend, workflow automation
 Stack: Python, JavaScript, SQL, React, Next.js, Vite, Tailwind CSS, FastAPI, Django, Flask, PostgreSQL, MySQL, Supabase, n8n, LLM APIs, Docker, CI/CD, Git, GitHub, Figma
 Projects: TransLive (Python, Flask; real-time transcription and translation with live captions), DocBoard (Python, React, Supabase, FastAPI, Vite; clinical and financial dashboard)
-Contact: enzocamelo8d@gmail.com | https://www.linkedin.com/in/enzo-camelo | http://instagram.com/camelo_enzo | https://enzocamelo.vercel.app
+Contact: enzocamelo8d@gmail.com | https://www.linkedin.com/in/enzo-camelo | http://instagram.com/camelo_enzo | https://enzocamelo.dev
 CV: assets/cv/enzo-camelo-cv.pdf
 -->
 
@@ -31,7 +31,7 @@ CV: assets/cv/enzo-camelo-cv.pdf
 - **Focus:** AI-integrated systems, Python backend, React frontend, workflow automation.
 - **Stack:** Python, JavaScript, SQL · React, Next.js, Vite, Tailwind CSS · FastAPI, Django, Flask · PostgreSQL, MySQL, Supabase · n8n, LLM APIs · Docker, CI/CD, Git, GitHub, Figma.
 - **Projects:** [DocBoard](https://github.com/Enzo-Camelo/DocBoard) — clinical and financial monitoring dashboard for Hemodynamics (Python, React, Supabase, FastAPI, Vite). TransLive — real-time audio transcription and translation with live captions (Python, Flask; private).
-- **Contact:** [Email](mailto:enzocamelo8d@gmail.com) · [LinkedIn](https://www.linkedin.com/in/enzo-camelo) · [Instagram](http://instagram.com/camelo_enzo) · [Portfolio](https://enzocamelo.vercel.app) · [CV (PDF)](assets/cv/enzo-camelo-cv.pdf)
+- **Contact:** [Email](mailto:enzocamelo8d@gmail.com) · [LinkedIn](https://www.linkedin.com/in/enzo-camelo) · [Instagram](http://instagram.com/camelo_enzo) · [Portfolio](https://enzocamelo.dev) · [CV (PDF)](assets/cv/enzo-camelo-cv.pdf)
 
 </details>
 
